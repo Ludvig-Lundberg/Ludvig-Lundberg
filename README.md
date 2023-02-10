@@ -36,6 +36,11 @@
 </div>
 
 ## Projekt
+<!--
+| Bortakväll | Barbershop |
+| ---------- | ---------- |
+| <a href="https://gentle-dusk-abe4a9.netlify.app/">Sida<br><img src="https://github.com/Ludvig-Lundberg/Ludvig-Lundberg/blob/main/images/bortakvall.JPG" alt="bortakväll" title="bortakväll" width="250" heigt="250"></a><br>Grupparbete där vi gjorde en webbshop <br>som kommunicerar med ett API med produkter<br>&nbsp;&nbsp;&nbsp;Medlemmar:<br><ul><li><a href="https://github.com/arden-rh">Arden Haldorson</a></li><li><a href="https://github.com/Ludvig-Lundberg">Ludvig Lundberg</a> (jag)</li><li><a href="https://github.com/Patr1khe">Patrik He</a></li></ul> | -->
+
 
 <div align="left" width="20%">
         <h3>Bortakväll</h3>
