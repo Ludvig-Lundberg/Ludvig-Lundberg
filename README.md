@@ -6,10 +6,17 @@
         <a href="https://www.linkedin.com/in/ludvig-lundberg-174b02220">
           <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="60" height="50">
         </a>
-    </span>&nbsp;&nbsp;&nbsp;
+    </span>
+    &nbsp;&nbsp;&nbsp;
     <span>
         <a href="https://discord.com/users/266907981013057537">
           <img src="https://github.com/Ludvig-Lundberg/Ludvig-Lundberg/blob/main/images/discord-mark-blue.png" width="60" height="50">
+        </a>
+    </span>
+    &nbsp;&nbsp;&nbsp;
+    <span>
+        <a href="mailto:ickeskola@gmail.com">
+          <img src="https://github.com/Ludvig-Lundberg/Ludvig-Lundberg/blob/main/images/gmail.png" width="60" height="60">
         </a>
     </span>
 </div>
