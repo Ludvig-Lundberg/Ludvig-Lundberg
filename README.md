@@ -3,9 +3,9 @@
 
 <div>
     <div>
-        <img>
-        [LinkedIn](https://www.linkedin.com/in/ludvig-lundberg-174b02220)
-        [I'm an inline-style link](https://www.google.com)
+        <a href="https://www.linkedin.com/in/ludvig-lundberg-174b02220">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50">
+        </a>
     </div>
 </div>
 
