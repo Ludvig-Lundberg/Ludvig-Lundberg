@@ -3,6 +3,8 @@
 
 <div align="center">Hej 👋, Jag heter Ludvig och studerar Front End i Malmö på Medieinstitutet. Jag går första året och har läst HTML, CSS, Javascript/Typescript, mySQL, Node.js. Jag är mer intresserad av uppbyggnad och design av sidor men även funktionaliteten av Javascript. </div>
 <br>
+<br>
+## Kunskaper
 <div align="center">
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;&nbsp;
