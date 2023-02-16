@@ -4,13 +4,29 @@
 <div align="center">Hej 👋, Jag heter Ludvig och studerar Front End i Malmö på Medieinstitutet. Jag går första året och har läst HTML, CSS, Javascript/Typescript, mySQL, Node.js. Jag är mer intresserad av uppbyggnad och design av sidor men även funktionaliteten av Javascript. </div>
 <br>
 <div align="center">
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;&nbsp;
+  
+  <br>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=express" title="express" alt="express"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" title="postman" alt="postman"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" title="prisma" alt="prisma"/>&nbsp;&nbsp;
+  
 </div>
+
+## Stats
+[![Ludvig's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ludvig-Lundberg)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludvig-Lundberg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br> <br>
+
+## Kontakt
 <p align="center" width="50%">Vill ni kontakta mig? Bästa sättet att kontakta mig är genom att skicka ett mail eller ett meddelande på Discord om ni vill ha snabbt svar. Kan även lägga till mig på LinkedIn 😄</p>
 
 <div align="center">
