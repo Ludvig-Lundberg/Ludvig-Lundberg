@@ -1,11 +1,11 @@
 
 <h1 align="center">Ludvig Lundberg</h1>
 
-<div align="center">Hej 👋, Jag heter Ludvig och studerar Front End i Malmö på Medieinstitutet. Jag går första året och har läst HTML, CSS, Javascript/Typescript, mySQL, Node.js. Jag är mer intresserad av uppbyggnad och design av sidor men även funktionaliteten av Javascript. </div>
+<div align="center">Hello 👋, My name is Ludvig och i'm a first year Front End student in Malmö, Sweden. I've studied HTML, CSS/SCSS, Javascript/Typescript, mySQL, Node.Js and more. I'm more interested in buildup and design of sites but also functionality of Javascript.</div>
 <br>
 <br>
 
-## Kunskaper
+## Skills
 
 <div align="center">
 
@@ -30,8 +30,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludvig-Lundberg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br> <br>
 
-## Kontakt
-<p align="center" width="50%">Vill ni kontakta mig? Bästa sättet att kontakta mig är genom att skicka ett mail eller ett meddelande på Discord om ni vill ha snabbt svar. Kan även lägga till mig på LinkedIn 😄</p>
+## Contact
+<p align="center" width="50%">Want to contact me? Best way is sending a email or message through discord, or check me out on LinkedIn 😄.</p>
 
 <div align="center">
     <span>
@@ -56,26 +56,21 @@
 
 
 
-## Projekt
-<!--
-| Bortakväll | Barbershop |
-| ---------- | ---------- |
-| <a href="https://gentle-dusk-abe4a9.netlify.app/">Sida<br><img src="https://github.com/Ludvig-Lundberg/Ludvig-Lundberg/blob/main/images/bortakvall.JPG" alt="bortakväll" title="bortakväll" width="250" heigt="250"></a><br>Grupparbete där vi gjorde en webbshop <br>som kommunicerar med ett API med produkter<br>&nbsp;&nbsp;&nbsp;Medlemmar:<br><ul><li><a href="https://github.com/arden-rh">Arden Haldorson</a></li><li><a href="https://github.com/Ludvig-Lundberg">Ludvig Lundberg</a> (jag)</li><li><a href="https://github.com/Patr1khe">Patrik He</a></li></ul> | -->
-
+## Project
 
 <div align="left" width="20%">
         <h3>Bortakväll</h3>
         <a href="https://gentle-dusk-abe4a9.netlify.app/">
-            Sida
+            Site
             <br>
             <img src="https://github.com/Ludvig-Lundberg/Ludvig-Lundberg/blob/main/images/bortakvall.JPG" alt="bortakväll" title="bortakväll" width="250" heigt="250">
         </a>
-        <div>Grupparbete där vi gjorde en webbshop <br>som kommunicerar med ett API med produkter</div>
+        <div>Group project with 2 other people where we made a webshop.</div>
         <br>
-        <div>&nbsp;&nbsp;&nbsp;Medlemmar:<br>
+        <div>&nbsp;&nbsp;&nbsp;Team:<br>
             <ul>
                 <li><a href="https://github.com/arden-rh">Arden Haldorson</a></li>
-                <li><a href="https://github.com/Ludvig-Lundberg">Ludvig Lundberg</a> (jag)</li>
+                <li><a href="https://github.com/Ludvig-Lundberg">Ludvig Lundberg</a> (Me)</li>
                 <li><a href="https://github.com/Patr1khe">Patrik He</a></li>
             </ul>
         </div>
