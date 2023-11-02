@@ -1,7 +1,7 @@
 
 <h1 align="center">Ludvig Lundberg</h1>
 
-<div align="center">Hello 👋, My name is Ludvig och i'm a first year Front End student in Malmö, Sweden. I've studied HTML, CSS/SCSS, Javascript/Typescript, mySQL, Node.Js and more. I'm more interested in buildup and design of sites but also functionality of Javascript.</div>
+<div align="center">Hello 👋, My name is Ludvig och i'm a second year Front End student in Malmö, Sweden. I've studied HTML, CSS/SCSS, Javascript/Typescript, mySQL, Node.Js and more. I'm more interested in buildup and design of sites but also functionality of Javascript.</div>
 <br>
 <br>
 
