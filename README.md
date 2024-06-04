@@ -1,7 +1,7 @@
 
 <h1 align="center">Ludvig Lundberg</h1>
 
-<div align="center">Hello 👋, My name is Ludvig and i'm a second year Front End student in Malmö, Sweden. I've studied HTML, CSS/SCSS, Javascript/Typescript, mySQL, Node.Js and more. I'm more interested in buildup and design of sites but also functionality of Javascript.</div>
+<div align="center">Hello 👋, My name is Ludvig and I am a Junior Frontend Developer based in Malmö, Sweden. I of course know HTML, CSS/SCSS, Javascript/Typescript but also ReactJS, NextJS, mySQL, NodeJS and more.</div>
 <br>
 <br>
 
@@ -14,6 +14,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;&nbsp;
+
+  
   
   <br>
   
