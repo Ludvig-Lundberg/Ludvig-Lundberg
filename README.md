@@ -35,18 +35,12 @@
 <br> <br>
 
 ## Contact
-<p align="center" width="50%">Want to contact me? Best way is sending a email or message through discord, or check me out on LinkedIn 😄.</p>
+<p align="center" width="50%">Want to contact me? Best way is sending a email, or check me out on LinkedIn 😄.</p>
 
 <div align="center">
     <span>
         <a href="https://www.linkedin.com/in/ludvig-lundberg-174b02220">
           <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="60" height="50" alt="linkedin">
-        </a>
-    </span>
-    &nbsp;&nbsp;&nbsp;
-    <span>
-        <a href="https://discord.com/users/266907981013057537">
-          <img src="https://github.com/Ludvig-Lundberg/Ludvig-Lundberg/blob/main/images/discord-mark-blue.png" width="60" height="50" alt="discord">
         </a>
     </span>
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -56,32 +50,6 @@
         </a>
     </span>
 </div>
-
-
-
-
-## Project
-
-<div align="left" width="20%">
-        <h3>Bortakväll</h3>
-        <a href="https://gentle-dusk-abe4a9.netlify.app/">
-            Site
-            <br>
-            <img src="https://github.com/Ludvig-Lundberg/Ludvig-Lundberg/blob/main/images/bortakvall.JPG" alt="bortakväll" title="bortakväll" width="250" heigt="250">
-        </a>
-        <div>Group project with 2 other people where we made a webshop.</div>
-        <br>
-        <div>&nbsp;&nbsp;&nbsp;Team:<br>
-            <ul>
-                <li><a href="https://github.com/arden-rh">Arden Haldorson</a></li>
-                <li><a href="https://github.com/Ludvig-Lundberg">Ludvig Lundberg</a> (Me)</li>
-                <li><a href="https://github.com/Patr1khe">Patrik He</a></li>
-            </ul>
-        </div>
-    </span>
-</div>
-
-
 
 
 
