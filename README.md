@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="NextJS" alt="NextJS" width="50" height="50"/>&nbsp;&nbsp;
 
   
   
