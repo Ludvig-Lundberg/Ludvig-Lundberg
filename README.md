@@ -1,7 +1,7 @@
 
 <h1 align="center">Ludvig Lundberg</h1>
 
-<div align="center">Hello 👋, My name is Ludvig and I am a Junior Frontend Developer based in Malmö, Sweden. I of course know HTML, CSS/SCSS, Javascript/Typescript but also ReactJS, NextJS, mySQL, NodeJS and more.</div>
+<div align="center">Hello 👋, My name is Ludvig and I am a Junior Frontend Developer based in Sweden. I of course know HTML, CSS/SCSS, Javascript/Typescript but also ReactJS, NextJS, mySQL, NodeJS and more.</div>
 <br>
 <br>
 
